@@ -11,7 +11,7 @@ features:
   - title: "Simple"
     details: "With over 3000 lines of CSS, Aurora UI ensures that the classes that you use are simple and easy to remember"
 
-footer: "MIT Licensed | Copyright © 202-present Japroz Saini"
+footer: "MIT Licensed | Copyright © 2020-present Japroz Saini"
 ---
 
 # Aurora UI
